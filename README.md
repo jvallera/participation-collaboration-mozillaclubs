@@ -2,13 +2,18 @@
 
 [ Work with community members of the Mozilla Learning Discourse forum to improve participation and collaboration on Mozilla Clubs Discourse so that we can get feedback from others thereby improving openness & innovation.]
 
-[ If you have one, add your logo or an image here ]
-
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+Members participate on the Mozilla Club discourse channel to share updates, get information and to stay connected with the larger community. The aim of this project is to improve collaboration between the members and increase overall participation on the Mozilla Discourse channel. We're doing this by- 
+- Assessing activity levels in current channels used for communication like- Facebook group, Discourse, Telegram group, Whatsapp group etc. 
+- Interviewing community members on what inspires them to be active in these discussion channels and their motivations to participate.
+- Gathering feedback on the incentives needed to improve participation
+
+The feedback from the above activity would be conveyed to the community managers to incorporate any changes in strategy.
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+Contributors are encouraged to sign up on the Mozilla Learnings Discourse forum- https://forum.learning.mozilla.org Once you've done that, you can navigate to the Mozilla Clubs section. We'd love to have your help in analyzing activity levels, interview members and suggest incentives to improve participation.
+
 
 ## Contributing
 
