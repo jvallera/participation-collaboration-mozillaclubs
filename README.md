@@ -1,8 +1,7 @@
 # Improve participation & collaboration on Mozilla Clubs Discourse
 
-[ Work with community members of the Mozilla Learning Discourse forum to improve participation and collaboration on Mozilla Clubs Discourse so that we can get feedback from others thereby improving openness & innovation.]
+Work with community members of the Mozilla Learning Discourse forum to improve participation and collaboration on Mozilla Clubs Discourse so that we can get feedback from others thereby improving openness & innovation.
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 Members participate on the Mozilla Club discourse channel to share updates, get information and to stay connected with the larger community. The aim of this project is to improve collaboration between the members and increase overall participation on the Mozilla Discourse channel. We're doing this by- 
 - Assessing activity levels in current channels used for communication like- Facebook group, Discourse, Telegram group, Whatsapp group etc. 
 - Interviewing community members on what inspires them to be active in these discussion channels and their motivations to participate.
@@ -21,7 +20,7 @@ Thanks for your interest in contributing to [PROJECT]! There are many ways to co
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to dun3buggi3@gmail.com.
 
 ## MozSprint
 
