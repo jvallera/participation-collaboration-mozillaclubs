@@ -1,6 +1,6 @@
-# [ Project Title ]
+# Improve participation & collaboration on Mozilla Clubs Discourse
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+[ Work with community members of the Mozilla Learning Discourse forum to improve participation and collaboration on Mozilla Clubs Discourse so that we can get feedback from others thereby improving openness & innovation.]
 
 [ If you have one, add your logo or an image here ]
 
