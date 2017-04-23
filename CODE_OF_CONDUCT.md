@@ -5,7 +5,7 @@ Use the Mozilla community participation guidelines below, or write you own Code 
 <!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
-This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
+This project, participating in the  Mozilla Global Sprint 2017, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as contributors. 
 
 ## How to treat each other
 
@@ -24,13 +24,11 @@ We welcome contributions from everyone as long as they interact constructively w
 
 Mozilla-based activities should be inclusive and should support such diversity.
 
-## Raising Issues at #mozsprint
+## Raising Issues
 
-If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Zannah Marsh.
+If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Shreyas Narayanan Kutty.
 
-#mozsprint organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
-
-Email: askopenleadership@mozillafoundation.org 
+Email: dun3buggi3@gmail.com 
 
 ## Working in the Open
 
