@@ -12,6 +12,16 @@ The feedback from the above activity would be conveyed to the community managers
 
 This documents is a set of guidelines for contributing to Improving participation & collaboration on Mozilla Clubs Discourse on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
+## How can you help
+For this project, we're looking for help from people from various backgrounds and with varied interests. 
+
+* If you're participating in an online community, we'd love to hear from you on your motivations for participating.
+* If you have a couple of minutes, help us understand if we can improve the on-boarding for the Discourse channel.(http://forum.learning.mozilla.org)
+* If you're a UX expert, feel free to suggest changes we can do to improve the experience of a community member.
+* If you're a Discourse ninja, do suggest technical features that can help improve participation.
+* If you have data analytics experience, we'd love to have someone analyze the participation on different channels that we use and derive at conclusions based on the data.
+* If there's something else that you think you can help us out with, please drop an email at dun3buggi3@gmail.com
+
 ## Participation guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to dun3buggi3@gmail.com.
