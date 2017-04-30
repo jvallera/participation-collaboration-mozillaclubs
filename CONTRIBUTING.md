@@ -12,6 +12,8 @@ The feedback from the above activity would be conveyed to the community managers
 
 This documents is a set of guidelines for contributing to Improving participation & collaboration on Mozilla Clubs Discourse on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
+Your contribution will help us put together a report to improve participation and collaboration on our community discourse channel. This would be available in the open, so that you can feel free to repurpose it for your community. 
+
 ## How can you help
 For this project, we're looking for help from people from various backgrounds and with varied interests. 
 
