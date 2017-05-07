@@ -21,7 +21,7 @@ For this project, we're looking for help from people from various backgrounds an
 * If you have a couple of minutes, help us understand if we can improve the on-boarding for the Discourse channel.(http://forum.learning.mozilla.org)
 * If you're a UX expert, feel free to suggest changes we can do to improve the experience of a community member.
 * If you're a Discourse ninja, do suggest technical features that can help improve participation.
-* If you have data analytics experience, we'd love to have someone analyze the participation on different channels that we use and derive at conclusions based on the data.
+* If you have data analytics experience, we'd love to have someone analyze the participation on different channels that we use and derive at conclusions based on the data. [Check out this issue](https://github.com/dunebuggie/participation-collaboration-mozillaclubs/issues/4).
 * If there's something else that you think you can help us out with, please drop an email at dun3buggi3@gmail.com
 
 ## Participation guidelines
