@@ -23,6 +23,7 @@ For this project, we're looking for help from people from various backgrounds an
 * If you're a Discourse ninja, do suggest technical features that can help improve participation. [Check out this issue](https://github.com/dunebuggie/participation-collaboration-mozillaclubs/issues/3)
 * If you have data analytics experience, we'd love to have someone analyze the participation on different channels that we use and derive at conclusions based on the data. [Check out this issue](https://github.com/dunebuggie/participation-collaboration-mozillaclubs/issues/4).
 * If there's something else that you think you can help us out with, please drop an email at dun3buggi3@gmail.com or create a new issue [here](https://github.com/dunebuggie/participation-collaboration-mozillaclubs/issues)
+* If you'd like to participate in an in-person interview online or offline during the Global sprint, please drop an email to dun3buggi3@gmail.com or tweet @dun3buggi3.
 
 ## Participation guidelines
 
